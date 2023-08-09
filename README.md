@@ -25,3 +25,5 @@
 <br/>  
 
 ----
+
+<a href="https://t.me/f1llzzz" rel="nofollow"><img src="https://camo.githubusercontent.com/2297af39fb6f35f5276cc5cb622c6a7f85c1956d6148f79f767ca7ec0a68e8fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d66696c696d6f6e6f76616c657865792d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-IvDeveloper-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>

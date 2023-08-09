@@ -10,6 +10,7 @@
 
 <div align="center" style="font-weight: bold">Мои скромные навыки:</div> 
 
+<br/>  
  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
@@ -25,6 +26,13 @@
 
 <br/>  
 
-----
+<div align="center" style="font-weight: bold">Связаться со мной можно через:</div>
+
+<br/> 
+
+<div align="center"
+<a href="https://t.me/IvDeveloper" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="32"/></a>
+</div>
+
 
 

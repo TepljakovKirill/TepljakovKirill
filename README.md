@@ -31,7 +31,7 @@
 <br/> 
 
 <div align="center"
-<a href="https://t.me/IvDeveloper" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="32"/></a>
+<a href="IvDeveloper" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="32"/></a>
 </div>
 
 
